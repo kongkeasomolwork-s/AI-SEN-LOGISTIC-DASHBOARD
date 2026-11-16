@@ -1,0 +1,8 @@
+name = "logistics-api"
+main = "index.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-database"
+database_id = "f1a766a8-3900-4a65-a07a-73090cb6756d"
